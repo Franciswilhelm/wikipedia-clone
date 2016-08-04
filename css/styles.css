@@ -50,3 +50,7 @@
 .panel-default {
   background-color: #F9F9F9;
 }
+
+.panel {
+  margin: 10px;
+}
