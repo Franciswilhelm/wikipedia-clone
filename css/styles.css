@@ -1,0 +1,52 @@
+.greenwell {
+  font-weight: bold;
+  min-height: 10px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #DFF0D8;
+  border: 1px solid #DFF0D8;
+  border-radius: 4px;
+}
+
+.bluewell {
+  font-weight: bold;
+  min-height: 10px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #D9EDF7;
+  border: 1px solid #D9EDF7;
+  border-radius: 4px;
+}
+
+.purplewell {
+  font-weight: bold;
+  min-height: 10px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #DDCEF2;
+  border: 1px solid #DDCEF2;
+  border-radius: 4px;
+}
+
+.panel-purple {
+  border-color: #DDCEF2;
+}
+.panel-purple > .panel-heading {
+  color: #3c763d;
+  background-color: #DDCEF2;
+  border-color: #DDCEF2;
+}
+.panel-purple > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #DDCEF2;
+}
+.panel-purple > .panel-heading .badge {
+  color: #dff0d8;
+  background-color: #DDCEF2;
+}
+.panel-purple > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: #DDCEF2;
+}
+
+.panel-default {
+  background-color: #F9F9F9;
+}
